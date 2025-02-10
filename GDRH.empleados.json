@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "679938dd3f135b83e883f09a"
+  },
+  "nombre": "Leonardo Zaid",
+  "edad": 30,
+  "cargo": "Conserje",
+  "salario": 50000
+},
+{
+  "_id": {
+    "$oid": "67993a8c3f135b83e883f0a5"
+  },
+  "nombre": "Martin De Jesus",
+  "edad": 19,
+  "cargo": "Gerente",
+  "salario": 50000
+},
+{
+  "_id": {
+    "$oid": "67993add3f135b83e883f0a7"
+  },
+  "nombre": "kike",
+  "edad": 30,
+  "cargo": "Secretario",
+  "salario": 50000
+},
+{
+  "_id": {
+    "$oid": "679938dd3f135b83e883f09b"
+  },
+  "nombre": "Maria Gonzalez",
+  "edad": 28,
+  "cargo": "Secretaria",
+  "salario": 40000
+},
+{
+  "_id": {
+    "$oid": "679938dd3f135b83e883f09c"
+  },
+  "nombre": "Carlos Romero",
+  "edad": 35,
+  "cargo": "Técnico",
+  "salario": 60000
+},
+{
+  "_id": {
+    "$oid": "679938dd3f135b83e883f09d"
+  },
+  "nombre": "Ana Perez",
+  "edad": 25,
+  "cargo": "Diseñadora",
+  "salario": 45000
+},
+{
+  "_id": {
+    "$oid": "679938dd3f135b83e883f09e"
+  },
+  "nombre": "Javier Martinez",
+  "edad": 40,
+  "cargo": "Gerente",
+  "salario": 75000
+}]
