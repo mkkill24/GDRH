@@ -6,7 +6,7 @@
   "cargo": "Conserje",
   "edad": 30,
   "salario": 50000,
-  "responsabilidades": [
+  "Informe": [
     "Mantenimiento y limpieza de las instalaciones.",
     "Supervisión del orden y correcto funcionamiento de áreas comunes.",
     "Apoyo en logística interna, como la distribución de documentos o materiales."
@@ -20,7 +20,7 @@
   "cargo": "Analista",
   "edad": 28,
   "salario": 60000,
-  "responsabilidades": [
+  "Informe": [
     "Análisis de datos sobre la gestión de personal.",
     "Elaboración de informes sobre desempeño y eficiencia de los empleados.",
     "Apoyo en la planificación estratégica de recursos humanos."
@@ -34,7 +34,7 @@
   "cargo": "Gerente",
   "edad": 35,
   "salario": 85000,
-  "responsabilidades": [
+  "Informe": [
     "Dirección del equipo de recursos humanos.",
     "Definición de estrategias para la captación y retención de talento.",
     "Supervisión de políticas laborales y cumplimiento normativo."
@@ -48,7 +48,7 @@
   "cargo": "Supervisor",
   "edad": 40,
   "salario": 75000,
-  "responsabilidades": [
+  "Informe": [
     "Coordinación de las actividades del equipo.",
     "Garantizar el cumplimiento de los procedimientos establecidos.",
     "Supervisar la eficiencia operativa y el cumplimiento de los objetivos organizacionales."
@@ -62,7 +62,7 @@
   "cargo": "Especialista en Reclutamiento",
   "edad": 32,
   "salario": 70000,
-  "responsabilidades": [
+  "Informe": [
     "Búsqueda y selección de talento para la empresa.",
     "Diseño e implementación de estrategias de contratación.",
     "Gestión de entrevistas y evaluación de candidatos."
